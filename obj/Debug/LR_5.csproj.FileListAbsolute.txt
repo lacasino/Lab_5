@@ -1,0 +1,10 @@
+D:\moya popochka\ЧНУ\ООП\Л.Р.№5\bin\Debug\LAB5.exe.config
+D:\moya popochka\ЧНУ\ООП\Л.Р.№5\bin\Debug\LAB5.exe
+D:\moya popochka\ЧНУ\ООП\Л.Р.№5\bin\Debug\LAB5.pdb
+D:\moya popochka\ЧНУ\ООП\Л.Р.№5\obj\Debug\LR_5.csprojAssemblyReference.cache
+D:\moya popochka\ЧНУ\ООП\Л.Р.№5\obj\Debug\LAB5.Lab5.resources
+D:\moya popochka\ЧНУ\ООП\Л.Р.№5\obj\Debug\LAB5.Properties.Resources.resources
+D:\moya popochka\ЧНУ\ООП\Л.Р.№5\obj\Debug\LR_5.csproj.GenerateResource.cache
+D:\moya popochka\ЧНУ\ООП\Л.Р.№5\obj\Debug\LR_5.csproj.CoreCompileInputs.cache
+D:\moya popochka\ЧНУ\ООП\Л.Р.№5\obj\Debug\LAB5.exe
+D:\moya popochka\ЧНУ\ООП\Л.Р.№5\obj\Debug\LAB5.pdb
